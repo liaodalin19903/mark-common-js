@@ -1,0 +1,16 @@
+{
+  "name": "@mark-common-js/crypto-esm",
+  "version": "1.0.0",
+  "description": "crypto lib for esm",
+  "main": "src/crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["crypto", "crypto-esm", "crypto-js"],
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/liaodalin19903/mark-common-js.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
