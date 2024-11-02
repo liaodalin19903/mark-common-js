@@ -1,6 +1,6 @@
 {
   "name": "@mark-common-js/crypto-esm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "crypto lib for esm",
   "main": "src/crypto.js",
   "scripts": {
